@@ -1,0 +1,15 @@
+{
+  "name": "Homework Tutor",
+  "short_name": "Tutor",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F9F8F3",
+  "theme_color": "#8E9775",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
